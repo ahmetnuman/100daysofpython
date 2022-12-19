@@ -17,4 +17,12 @@
 - Number Manipulation adn F Stings in Python
 - Day 2 Project : Tip calculator
 
+## Day 3 : Conditional Statements, Logical Operators, Code Blocks and Scope
+
+- Control Flow with if/else and Conditional Operators
+- Nested if statements and elif statements
+- Multiple if statements in succession
+- Logical Operators
+- Day 3 Project : Treasure Island
+
 
