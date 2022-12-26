@@ -25,4 +25,11 @@
 - Logical Operators
 - Day 3 Project : Treasure Island
 
+## Day 4 : Randomisation and Python Lists
+
+- Random Module
+- Python Lists
+- IndexErrors and working with nested lists
+- Day 4 Project : Rock Paper Scissors
+
 
