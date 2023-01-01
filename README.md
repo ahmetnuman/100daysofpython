@@ -33,3 +33,9 @@
 - Day 4 Project : Rock Paper Scissors
 
 
+## Day 5 : For loops , Range and Code Blocks
+
+- Using for loops with python lists
+- for loops and the range() function
+- Day 5 Project : Create a Password Generator
+
