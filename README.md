@@ -39,3 +39,4 @@
 - for loops and the range() function
 - Day 5 Project : Create a Password Generator
 
+
