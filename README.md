@@ -38,4 +38,9 @@
 - for loops and the range() function
 - Day 5 Project : Create a Password Generator
 
+## Day 6 : Functions, Code Blocks and While Loops
 
+- Defining and Calling Python Functions
+- Indentation in python
+- while loops
+- DAY 6 Projects : Escaping the Maze
