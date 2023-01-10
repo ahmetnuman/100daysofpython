@@ -44,3 +44,19 @@
 - Indentation in python
 - while loops
 - DAY 6 Projects : Escaping the Maze
+
+## Day 7 : Hangman Project
+
+- review all learned
+- for and while loops
+- if / else
+- lists
+- strings
+- range
+- modules
+
+## Day 8 : Functions with Inputs
+
+- Functions with Inputs
+- Arguments and Parameters
+- Day 8 Project : Caesar Cipher
